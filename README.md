@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarpdora23
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Java and Kotlin
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me Mail:sarpdorayonden@gmail.com
 
 <!---
