@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarpdora23
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 👀 I’m interested in Game Development and Cyber Security
+- 🌱 I’m currently learning Unity and Python
 - 📫 How to reach me Mail:sarpdorayonden@gmail.com
 
 <!---
