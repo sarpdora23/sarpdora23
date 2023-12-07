@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarpdora23
-- 👀 I’m interested in Java and Cyber Security
-- 🌱 I’m currently learning JavaFX, Web Security
+- 👀 I’m interested in Web Development and Cyber Security
+- 🌱 I’m currently learning React, Web Security
 - 📫 How to reach me Mail:sarpdorayonden@gmail.com
 
 <!---
